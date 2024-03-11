@@ -1,0 +1,9 @@
+Flask
+
+Gunicorn
+
+flask-sock
+
+psycopg2
+
+pyyaml
